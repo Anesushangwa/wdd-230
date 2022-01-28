@@ -39,7 +39,7 @@ header{
 
    h1{
        text-shadow: 5px 5px 5px #ccc;
-       font-family: Fredericka the Great;
+       font-family: Fredericka the Great  'Times New Roman', Times, serif;
    }
    hr{
      background-color: black;
